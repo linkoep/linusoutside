@@ -1,0 +1,6 @@
+<figure class="photo{% if include.large %} photo-large{% endif %}">
+  <img src="{{ include.src }}" alt="{{ include.alt }}">
+  {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>

@@ -1,0 +1,13 @@
+<figure class="photo-pair{% if include.large %} photo-pair-large{% endif %}">
+  <div class="photo-pair-images">
+    <div class="photo photo-square">
+      <img src="{{ include.src1 }}" alt="{{ include.alt1 }}">
+    </div>
+    <div class="photo photo-square">
+      <img src="{{ include.src2 }}" alt="{{ include.alt2 }}">
+    </div>
+  </div>
+  {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>
