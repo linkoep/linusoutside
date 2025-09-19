@@ -1,7 +1,57 @@
 ---
 layout: post
-title: "Brew Hut \"Ski\" Trip"
+title: "Brew Hut Ski Trip"
 start_date: 2025-01-18
 end_date: 2025-01-20
 ---
-WIP
+The [Brew Hut](https://huts.ubc-voc.com/Brew/) is one of the four huts maintained by the University of British Columbia's [Varsity Outdoor Club](https://www.ubc-voc.com/). More information about the hut and its history is available [here](https://www.ubc-voc.com/wiki/Brew_Hut)
+
+My friends Henk and Anna had planned a trip to the hut with some friends they made [hiking the PCT](https://ahhike.blogspot.com/), and invited me to come along. Since we all had Monday off for MLK Day, our plan was to spend Saturday getting to the hut, do some skiing on Sunday, and then head back out Monday.
+
+# Day 1: Up we go
+After collecting more friends along the way, a quick night in Vancouver, an unexpected coolant leak from the van <sup>foreshadowing</sup>, and some chain-based shenanigans on snowy forest roads, we hit the trail around 10:30am.
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/10tt.jpg"
+   alt="Anna and I making our way up the forest road"
+   caption="And we're off!<br/>📷: Tippy-Top" %}
+
+The first two miles or so were on a forest road, making for relatively quick progress. Other than one group on snowmobiles we had the trail to ourselves, and decided to stop for lunch before turning off the road.
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/15.jpg"
+   alt="My lunch spread out on my ski"
+   caption="Charcuterski" %}
+
+As we progressed up the trail, Lizard began struggling with her poorly fitting borrowed skis and boots, and the group decided it would be more efficient for her to proceed on foot. This led to some interesting gear setups:
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/20tt.jpg"
+   alt="Henk, Anna, and I making our way up the trail"
+   large=true
+   caption="Who said you can only ski one pair at a time<br/>📷: Tippy-Top" %}
+
+But given that the snow was quite firm, turning into ice in the treed sections, those of us without ski crampons probably ended up struggling the most
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/30l.jpg"
+   alt="Microspikes over crocs over newspaper bags over socks"
+   large=true
+   caption="Potentially the best footwear in the group for the conditions?<br/>📷: Lizard" %}
+
+The sun began to set as we continued up, making for beautiful views.
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/35.jpg"
+   alt="Sunset on a mountain across the valley"
+   large=true %}
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/40tt.jpg"
+   alt="The group skins up at sunset"
+   large=true 
+   caption="📷: Tippy-Top" %}
+
+I refused to turn on my headlamp, walking into the hut around 6:40pm asserting we had made it before dark. Although over 20 people had self-registered on the hut signup page, we were met with only one other group of 4. They had already started melting some water, and we sat down together for dinner before crawling into our sleeping bags for an early night.
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="13402315910" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
