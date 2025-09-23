@@ -69,3 +69,33 @@ figure.photo-pair figcaption {
     margin: 0 auto;
   }
 }
+
+/* Callout block */
+.callout {
+  border-left: 4px solid #ccc;
+  background: #f9f9f9;
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 4px;
+}
+
+.callout-title {
+  display: block;
+  margin-bottom: 0.25em;
+  font-weight: bold;
+}
+
+.callout-info {
+  border-color: #2b6cb0;
+  background: #ebf8ff;
+}
+
+.callout-warning {
+  border-color: #dd6b20;
+  background: #fffaf0;
+}
+
+.callout-success {
+  border-color: #38a169;
+  background: #f0fff4;
+}
