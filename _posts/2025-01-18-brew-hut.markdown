@@ -55,3 +55,86 @@ The sun began to set as we continued up, making for beautiful views.
 I refused to turn on my headlamp, walking into the hut around 6:40pm asserting we had made it before dark. Although over 20 people had self-registered on the hut signup page, we were met with only one other group of 4. They had already started melting some water, and we sat down together for dinner before crawling into our sleeping bags for an early night.
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="13402315910" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+# Day 2: Skiing and a Treasure Hunt
+We woke up to beautiful clear skies, and the other group in the hut soon left back for their cars. Tippy-Top as our experienced local relayed to us that the club that maintains the hut had helicoptered in some firewood, but had been unable to stash it in the woodshed before the first winter storm. With a rough idea of where it had been dropped, we decided to spend our morning doing some probing and digging - good practice for those of us in the group newer to backcountry travel and avalanche rescue.
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/50.jpg"
+   alt="The Brew Hut in the morning"
+   caption="My first view of the hut in daylight"
+   large=true %}
+
+We had a quick lunch
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/60.jpg"
+   alt="My Cheese Meat and Crackers on my Avy Shovel"
+   caption="Charcutershovel" %}
+
+Then at last it was time to ski!
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/70.png"
+   alt="My ski tracks, and Anna skiing down"
+   large="true"
+   caption="Anna making fresh tracks" %}
+
+We started with a mellow warm-up down to East Lake, and brought a hatchet in case we found some moderately-accessible running water, which we did:
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/80tt.jpg"
+   alt="Me filling water from a half-frozen stream"
+   caption="Better than melting snow<br/>📷: Tippy-Top" %}
+
+And then went for a longer lap on the aptly-named "Doorstep Run", going almost fully down to the lake Northwest of the hut.
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/90tt.jpg"
+   alt="Henk, Anna, and I touring back up"
+   caption="Heading back up to our doorstep<br/>📷: Tippy-Top" %}
+
+Tippy-Top and Anna headed in, and Henk and I decided we had the appetite for one more lap. We headed over to one of the coluoirs South of the lake, and even with less than ideal snow conditions had a fun descent.
+
+We headed back up to the hut around sunset, comfortably following our skin tracks from earlier in the day. Henk's skins started to fail, leading to some fun MacGyvering, as well as me touring with a second pair of skis on my back yet again as he bootpacked up the steeper sections.
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/95.png"
+   alt="Henk's skins held on with ski straps an a length of cord"
+   caption="Who needs tail clips anyways" %}
+
+Thus delayed, we made it back to the hut in the dark and excitedly dug into our dinners.
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="13402321794" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+However, the day was far from over. For the good of future hut users, Tippy-Top convinced us to go out for yet another round of digging, and after adjusting our location based on some new updates he had since gotten, we finally struck gold... well, wood.
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/100tt.jpg"
+   alt="Anna and I excavating firewood out from under the snow"
+   large="true"
+   caption="📷: Tippy-Top" %}
+
+This wood was a bit drier than the few logs we had found so far, and after some more "engineering" of a firestarter using wood chips and skin wax melted in the bottom of a beer can, we fell asleep to the relief of a crackling fire.
+
+# Day 3: Over and Out
+
+We woke up the next morning and made preparations for our return home. Henk and I headed out a bit earlier, looking to check off another couloir, and with Henk using Lizard's unused skins made a relatively quick lap before collecting our things and heading off to chase down the rest of the group.
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/110.jpg"
+   alt="More ski tracks"
+   large="true"
+   caption="Ski tracks from the two groups, and the skin track we came in on" %}
+
+Lizard once again made quick progress with her microspikes and had a nice nap in the van while the rest of us took a longer way around, hoping to get in a few more turns on snow rather than the icy treed bootpack. We arrived at the cars around 5pm, and headed back to Squamish for some well-deserved burritos.
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="13416351829" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+This was my first hut trip, and my first tour of the season, and even with the gear and firewood issues I had a wonderful time. While the snowpack did not make for the best quality of skiing, it made for a very safe and approachable tour, well suited for our group's experience level. I hope to visit the remaining VOC huts soon!
+
+{% include photo.html
+   src="/assets/images/2025-01-18-brew-hut/endtt.jpg"
+   alt="The Brew Hut at Sunset"
+   large="true"
+   caption="📷: Tippy-Top - thanks again for organizing and for all the great photos" %}
