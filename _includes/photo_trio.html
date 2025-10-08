@@ -1,0 +1,16 @@
+<figure class="photo-trio{% if include.large %} photo-trio-large{% endif %}">
+  <div class="photo-trio-images">
+    <div class="photo photo-square">
+      <img src="{{ include.src1 }}" alt="{{ include.alt1 }}">
+    </div>
+    <div class="photo photo-square">
+      <img src="{{ include.src2 }}" alt="{{ include.alt2 }}">
+    </div>
+    <div class="photo photo-square">
+      <img src="{{ include.src3 }}" alt="{{ include.alt3 }}">
+    </div>
+  </div>
+  {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>
