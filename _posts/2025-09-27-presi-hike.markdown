@@ -193,6 +193,6 @@ From there it was a bit of a slog down through the woods. The group was tired fr
    caption="This 'selfie' pretty accurately reflects our state at the end of the hike"
    large=true %}
 
-I had an absolutely wonderful time. The weather was close to perfect once the wind died down, and the views were constant and spectacular, especially with the late September foliage. This was perhaps my favorite hike I'd done in the Northeast to date, and I couldn't wait to go back. Literally
+I had an absolutely wonderful time. The weather was close to perfect once the wind died down, and the views were constant and spectacular, especially with the late September foliage. This was perhaps my favorite hike I'd done in the Northeast to date, and I couldn't wait to go back. [Literally]({% post_url 2025-09-28-presi-picnic %})
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15959039795" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
