@@ -1,0 +1,176 @@
+---
+layout: post
+title: "Running the Pemi Loop"
+date: 2025-10-06
+---
+
+The Pemigewasset Loop is another popular hike/backpack/trail run in New Hampshire's White Mountains, and was my other running goal for the 2025 season. Having successfully [hiked]({% post_url 2025-09-27-presi-hike %}) and [run]({% post_url 2025-09-28-presi-picnic %}) a Presidential Traverse the previous weekend, and with good weather in the forecast, I took the day off work and once more drove North, sleeping at a rest stop on Sunday night for an early start on Monday Morning.
+
+### That sign can't stop me 'cause I can't read
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_111942176.jpg"
+   alt="Me with a bad haircut grinning in front of the Lincoln Woods Ranger Station"
+   caption="Grinning like the idiot I am"
+    %}
+
+I arrived at the Lincoln Woods Trailhead for a nice 7:20 am start. Having backpacked the loop in three days a few years ago, I didn't bother looking at a map and set off down the trail. I knew the first few miles were on a flat wide rail trail, so continued to cruise until I was startled awake by a sign that said "East Side Trail". With the words "Lincoln Woods Trail" floating somewhere in the back of my memories, I checked the map... and turned around and ran back to the start. Let's call it a warm-up.
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16056703183" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+### Okay for real this time
+
+Scrutinizing the map, I set off from the parking lot once more, this time crossing the bridge, and being immediately rewarded for my route finding with a lovely view of the Pemigewasset River flanked by fall leaves
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_113818201.jpg"
+   alt="A low river with rocks strewn about, colorful leaves on the trees on either side"
+   caption="That's more like it"
+   large=true
+    %}
+
+I cruised down the correct rail trail for about the first two miles, then made a left into the woods. The trail quickly began climbing, culminating in stairs and ladders over the steepest bits.
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_124432352.jpg"
+   alt="Steep wooden stairs leading up a forested trail"
+   caption="Because why make switchbacks when you can haul lumber up?"
+    %}
+
+After about three miles of climbing, I arrived at the first of the day's 8 (ish? depending on what you're counting) summits - Mt. Flume.
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_130633037.PANO.jpg"
+   alt="A panoramic view of colorful trees below, with a ridgeline off to the right"
+   large=true
+    %}
+
+The small ziplock holding my electrolyte pills sprung a leak as I proceeded down from the summit, leading to a brief scavenger hunt along the ridge and some reorganization to free up a zipper pocket on my vest, but I reached Mt. Liberty otherwise undisturbed, enjoying the occasional bit of ridgeline running as I emerged out of the trees. 
+
+Having brought only 1.5L of water, I decided to take the detour to Liberty Springs after summitting Liberty - the spring was flowing, and I chatted with another runner as I refilled (and thus forgot to take any pictures). After climbing back out of the notch, I started on arguably the most scenic part of the day - the ridge from Lincoln to Lafayette.
+
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_142731723.jpg"
+   alt="A rocky sub-summit with several people visible in the distance"
+   caption="The first view of Little Haystack - surprisingly busy for a Monday morning"
+   large=true
+    %}
+
+Although somewhat crowded, I enjoyed the beautiful views, clear weather, and rolling terrain of the ridge.
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_142949036.MP.jpg"
+   alt="A summit in the distance, with the ridgeline trail to it in the foreground"
+   caption="Mt. Lincoln from just after Little Haystack"
+   large=true
+    %}
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_144321117.PANO.jpg"
+   alt="A panoramic view of several summits"
+   caption="A panoramic view from Mt. Lincoln. Lafayette in the center. Owl's Head on the right in the foreground. The background summit ridge on the right is Garfield, and then the second half of the loop (Twins, Bonds) continuing right from there"
+   large=true
+    %}
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_150105560.jpg"
+   alt="Another summit view"
+   caption="Looking at the second half of the loop from Mt. Lafayette"
+   large=true
+    %}
+
+The coolest thing about the Pemi Loop in my opinion is that you can see the entire route from pretty much every summit. I had a blast proceeding along, looking at the mountains I had just climbed and slowly watching the remaining distance whittle away. 
+
+After descending from Lafayette however, the trail becomes a bit of a slog through the woods, with no further views until Garfield.I trudged onwards, downwards, forwards, upwards, and appeared out of the trees once more. A very kind couple at the top of Mt. Garfield offered me a bite of sourdough and some apple slices, both locally sourced, which more than made up for the previous drudgery
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_161549233.PANO.jpg"
+   alt="Yet another summit panorama, with the remnants of a shelter on the summit"
+   caption="The only picture I took on Garfield because I was too busy enjoying delicious snacks! On the right is the ridge over to Galehead and then the climb up to South Twin"
+   large=true
+    %}
+
+As I decended off Garfield I saw two other runners on their way up, both of whom were doing the loop counterclockwise. I soon arrived at the second water source of the day, and filtered uphill of the sign as instructed - which made sense since the stream and the trail became one and the same soon after.
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_163613797.MP.jpg"
+   alt="A sign on a tree that says 'Water' with an arrow pointing left"
+   caption="Spoiler alert: There is water on the right as well"
+   large=true
+    %}
+
+From there it was another slog through the woods, a brief stop at Galehead hut, and then a steep climb up to South Twin. 
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_172706086.jpg"
+   alt="A rocky path in the woods"
+   caption="A fairly accurate stand-in for probably about 30% of the whole loop. Imagine it slightly wider and flatter and you have another 20%."
+    %}
+
+Back out of the trees I enjoyed the second alpine segment of the day, happy to be done with the last major climb.
+
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_180324062.MP.jpg"
+   alt="A rocky summit with alpine brush"
+   caption="Back above treeline on South Twin"
+   large=true
+    %}
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_180442525.jpg"
+   alt="A summit selfie with a ridgeline in the background"
+   caption="Back out in the sun - to the right behind me is Lafayette ridge from earlier in the day"
+   large=true
+    %}
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_190501769.jpg"
+   alt="Another summit photo, with an exposed ridge in the middle distance below"
+   caption="Looking at the upcoming Bondcliff ridgeline from Mt. Bond"
+   large=true
+    %}
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_193045321.jpg"
+   alt="A flatter, more open summit, with a lumpy mountain and then a ridgeline behind it"
+   caption="The last summit of the day, looking back across Owl's Head at Lafayette"
+   large=true
+    %}
+
+After that it was all downhill. I put on my headphones and started cruising, enjoying the faster pace of the descent. I hit a larger stream which I crossed several more times, filtering the cold water and throwing some in my face as the fatigue started to set in. My legs started to get sore, but I was almost done! Or so I thought...
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_205505886.jpg"
+   alt="A wide, flat, wooded trail with old railroad ties embededded in it"
+   caption="Back on flat ground, but not out of the woods"
+   large=true
+    %}
+
+I hit the rail trail excited to be on my way out - and then checked my watch and saw I was only at mile 26 of what I expected to be a 30-mile day. The realization set in that I had probably spent too much energy on the downhill, and I hit my mental low point of the day. After fighting for another mile, I told myself it was okay to walk even on the flat non-technical trail. I filled back up on nutrition, drank some water, switched up the music, and began to feel better. Checking the map and my watch, I realized my walking pace was not all that slow; and set myself the relatively arbitrary goal of finishing in under 10 hours. As I finished mile 28 I switched back to running, and quickly found that carrying my poles instead of leaning on them also helped pick up the pace. 
+
+I pulled out some ten-minute miles, motivated by another runner in the distance, and managed to catch up to him - it was one of the two I had crossed with while descending Garfield. I saw the footbridge, made some hopefully polite noises at the folks in my way as I crossed it, and was back at the car! After a collapsing onto the nearest bench for a few minutes I chatted with the other runner - another Connecticut native who said he tried to run the loop every year. Given that expertise I quickly joined him on his suggestion to go soak in the river for a while. A lovely ice bath for my sore legs, and a great view to finish off the day.
+
+{% include photo.html
+   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_214337552.MP.jpg"
+   alt="My feet in a clear river, with a concrete bridge in the distance and the setting sun behind it"
+   large=true
+    %}
+
+### Analysis/Nerd Stuff
+- I carried capacity for 1.5L of water which was the correct amount for me given the stop at Liberty Springs. That stop did add about half a mile and 350ft of vert, so I wonder if it would have been better to carry more water and skip it. However; I did drink another 1.5L on the way to Garfield, so would have had to carry 3L up the first climb which is a lot. I ended up somewhere around 6L on the day (two full refills at Liberty Springs and Garfield, .5L while at Garfield, and a bit more in the various streams after Bondcliff).
+  - Still one SaltStick pill every 45 mins, don't change what's not broken. I do need a sturdier ziploc for them though.
+- I dialed in/simplified my nutrition planning: Half a Nature's Bakery fig bar, one serving of gel, and one serving of nerds gummy clusters are all ~20g carbs. I do that every 15 minutes, alternating between gels and not gels, with bars in the first half and gummies in the second. This worked well and was easy to measure. My homemade energy gel worked well once again, although I hadn't solved the aeration problem and ended up unable to fit the last few servings in the containers I had.
+  - The impromptu sourdough and apple slices were a lovely surprise - I wasn't sure how well I'd be able to stomach them, and so I didn't have a lot, but I may bring small amounts of palate cleansers in the future.
+  - I didn't notice a significant difference upping to the ~70-80g carbs/hour from the ~40-60 on the Presidential Traverse, but it's also difficult for me to compare those efforts. It certainly didn't hurt.
+- I'm glad I brought poles for the uphill, and for saving myself from falls on the more technical downhills. I did snap both pole tips, fortunately low enough down to extend the poles and keep going. While other factors also played a role, I think using the poles at the beginning of the final flat segment slowed me down significantly - long-term I'd like to try a pole quiver and z-fold poles so I can stow them more often.
+- I need new shoes. Hoka doesn't make the Speedgoat 5 anymore, and the 6 has bad reviews. I'm also not impressed with the durability on the 5s, the tread wears down into dangerously slippery while there's still plenty of cushioning. Time to try some other models/brands.
+- This run was the longest distance and second most vert I've done in my life. While I certainly felt quite fatigued for the last few miles, I wouldn't say I fully bonked - I'm quite pleased with my training/nutrition, and grateful to be able to do this safely and pain/injury-free.
+
+The runner I met while filling at Liberty Springs said he wasn't a fan of the loop due to the trees-to-view ratio, and ultimately I came to the same conclusion. The two alpine sections are beautiful, and it's extremely cool to be able to see the entire loop from almost every viewpoint on it. But there's a whole lot of slogging through rolling terrain in the woods, although I'm not sure if there's anything in the Northeast at this distance that doesn't have that. I'm glad I went for it - it's still a classic, it's nice to not have to worry about a shuttle, it's a good distance, the fall foliage makes the wooded sections more interesting, and the beautiful parts certainly are beautiful. I'm just not sure I'd want to do it every year.
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16056856563" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+
+
