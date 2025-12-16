@@ -1,0 +1,117 @@
+---
+layout: post
+title: "Touring the Muir Snowfield (Tahoma)"
+date: 2025-12-13
+---
+
+We're so back!
+
+After a long unplanned stop in the Northeast to build an entirely new van; I was finally approaching Seattle again. Unfortunately a [historically low snowpack](https://www.drought.gov/drought-status-updates/snow-drought-current-conditions-and-impacts-west-2025-12-11) and [historically high flooding](https://www.pbs.org/newshour/nation/historic-floods-have-washed-away-homes-and-stranded-families-in-washington-state) meant we had almost resigned ourselves to spending the weekend climbin in Vantage - and then a friend mentioned there was enough snow on Tahoma for here AIARE 1 class. We checked the [webcams](https://www.nps.gov/mora/learn/photosmultimedia/webcams.htm#CP_JUMP_636381) (saw some snow from the parking lot), ensured [the gate would be open](https://www.nps.gov/mora/planyourvisit/road-status.htm), read the [Avalanche forecast](https://nwac.us/avalanche-forecast/#/forecast/6/175401) (Low to moderate, and we were traveling on low-angle terrain and comfortable identifying the warning signs of wet slides), and decided this was as good as we'd get.
+
+We arrived at the Paradise parking lot around 10:00am to many other skiers and hikers and gorgeous clear skies. While the first opportunity for skinning presented itself only a few steps up the trail, we followed the crowds and kept our skis on our backs for a while longer, walking up the lightly snow-covered trail so we could more esily cross several further patches of bare pavement.
+
+{% include photo.html
+   src="/assets/images/2025-12-13-paradise/PXL_20251213_182911073.jpg"
+   alt="A group selfie in the paradise parking lot"
+   caption="Clear Skies, Big Smiles, Fast Glasses"
+   large=true
+    %}
+
+After a relatively short walk, we put on our skis and continued up the skyline trail.
+
+{% include photo.html
+   src="/assets/images/2025-12-13-paradise/PXL_20251213_185949953.jpg"
+   alt="A skier touring on a narrow strip of snow between two exposed sections of paved trail"
+   caption="Henk dodging the last few patches of pavement"
+   large=true
+    %}
+
+{% include photo.html
+   src="/assets/images/2025-12-13-paradise/PXL_20251213_191001060.jpg"
+   alt="Two skiers touring, with Tahoma in the background"
+   caption="Henk and Anna making good progress upwards"
+   large=true
+    %}
+
+We soon reached the steepest section of the trail, right below Panorama point. Between the Skiers and Hikers/Snowshoers it was quite crowded, but everyone respectfully stuck to the bootpack on the left side of the slope.
+
+{% include photo.html
+   src="/assets/images/2025-12-13-paradise/PXL_20251213_193508753.MP.jpg"
+   alt="An almost-groomed looking slope, with a train of people climbing up on the left side"
+   caption="Looks like a ski resort! Just without the lifts"
+    %}
+
+Then it was our turn to boot.
+
+{% include photo_pair.html
+   src1="/assets/images/2025-12-13-paradise/IMG_20251213_114943063.jpg"
+   alt1="A skier ascending a bootpack"
+   src2="/assets/images/2025-12-13-paradise/PXL_20251213_195113031.MP.jpg"
+   alt2="Another, slightly less cool, skier ascending a bootpack"
+   caption="Henk, Anna, and I bootin' away"
+    %}
+
+We reached Panorama Point (~6900 ft.) and took in the view,
+
+{% include photo.html
+   src="/assets/images/2025-12-13-paradise/PXL_20251213_200032095.PANO.jpg"
+   alt="A panoramic view of the Southern Cascades"
+   caption="Obligatory Panorama from the eponymous point.<br>From left to right: Lawetlat'la (St. Helens), Hood (pointy in the far distance), Pahto (Adams), Poop Barrels"
+   large=true
+    %}
+
+And kept our skis on our back for a while longer, first for a relatively steep bootpack right above the point, and then for some easy walking on exposed rock.
+
+{% include photo.html
+   src="/assets/images/2025-12-13-paradise/PXL_20251213_200701080.MP.jpg"
+   alt="A skier carrying her skis ascending from behind a crest"
+   caption="Anna cresting the ridge above Panorama Point"
+   large=true
+    %}
+
+From there it was straightforward skinning on firm snow up to ~8500 ft.
+
+{% include photo.html
+   src="/assets/images/2025-12-13-paradise/IMG_20251213_131254962.jpg"
+   alt="Skiers skinning up open slopes below Tahoma"
+   caption="Open, low-angle slopes"
+   large=true
+    %}
+
+We made steady progress up the mountain, but as we ascended the wind picked up and the snow developed a thick icy crust. Lacking ski crampons, Anna waited at Moon rocks (~8700 ft), checking in with Henk and I over the radio as we scouted ahead. The wind and ice only increased, and being close to our turnaround time anyway, we called it soon after at around 9000 ft. I found a flat spot, did my best to kick into the ice enough to not slide away, and tried to transition as quickly as possible to get back out of the by now constant wind.
+
+After a bit of chatter and scrape on the icy sections, we enjoyed a long descent on firm, wide-open slopes reminiscent of a groomed resort trail late in the day.
+
+{% include photo.html
+   src="/assets/images/2025-12-13-paradise/PXL_20251213_230331826_exported_26275.jpg"
+   alt="Small skiers on a wide open snow field, with more mountains in the background"
+   caption="Probably my favorite capture of the trip - a still from a video of Henk and Anna skiing back down the Muir Snowfield. Lawetlat'la and Hood in the background"
+   large=true
+    %}
+
+The vast open slopes reminded me of skiing in the Alps as a child, but with the addition of the volcanoes (Tahoma looming above and Lawetlat'la, Hood and Pahto in the distance) created a skiing ambiance like nothing I had experienced before.
+
+{% include photo.html
+   src="/assets/images/2025-12-13-paradise/Screenshot_2025-12-15_151317.png"
+   alt="A skier pausing on a slope, with the setting sun a mountains behind"
+   caption="Anna examining the next part of the line, with the sunset and Pahto in the background"
+   large=true
+    %}
+
+{% include photo.html
+   src="/assets/images/2025-12-13-paradise/Screenshot_2025-12-15_151456.png"
+   alt="Two skiers on a slope, with a large mountain above"
+   caption="Skiing past Anna towards the end of the snowfield"
+   large=true
+    %}
+
+After the snowfield we primarily followed our uptrack back down. We took a skier's right around Panorama point, which allowed us to bypass the bootpacks but did force some fairly low-coverage skiing on steeper slopes. While we did have to take our skis off a few times to walk across exposed pavement, we managed to ski pretty much to the parking lot - not bad for such a low-snow year!
+
+{% include photo.html
+   src="/assets/images/2025-12-13-paradise/PXL_20251214_000100820.jpg"
+   alt="A couple sitting in the trunk of a car, ski gear strewn about, with a large mountain in the background"
+   caption="Back at the car"
+   large=true
+    %}
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16736259326" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>

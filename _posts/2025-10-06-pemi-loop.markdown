@@ -9,7 +9,7 @@ The Pemigewasset Loop is another popular hike/backpack/trail run in New Hampshir
 ### That sign can't stop me 'cause I can't read
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_111942176.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_111942176.jpg"
    alt="Me with a bad haircut grinning in front of the Lincoln Woods Ranger Station"
    caption="Grinning like the idiot I am"
     %}
@@ -23,7 +23,7 @@ I arrived at the Lincoln Woods Trailhead for a nice 7:20 am start. Having backpa
 Scrutinizing the map, I set off from the parking lot once more, this time crossing the bridge, and being immediately rewarded for my route finding with a lovely view of the Pemigewasset River flanked by fall leaves
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_113818201.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_113818201.jpg"
    alt="A low river with rocks strewn about, colorful leaves on the trees on either side"
    caption="That's more like it"
    large=true
@@ -32,7 +32,7 @@ Scrutinizing the map, I set off from the parking lot once more, this time crossi
 I cruised down the correct rail trail for about the first two miles, then made a left into the woods. The trail quickly began climbing, culminating in stairs and ladders over the steepest bits.
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_124432352.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_124432352.jpg"
    alt="Steep wooden stairs leading up a forested trail"
    caption="Because why make switchbacks when you can haul lumber up?"
     %}
@@ -40,7 +40,7 @@ I cruised down the correct rail trail for about the first two miles, then made a
 After about three miles of climbing, I arrived at the first of the day's 8 (ish? depending on what you're counting) summits - Mt. Flume.
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_130633037.PANO.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_130633037.PANO.jpg"
    alt="A panoramic view of colorful trees below, with a ridgeline off to the right"
    large=true
     %}
@@ -51,7 +51,7 @@ Having brought only 1.5L of water, I decided to take the detour to Liberty Sprin
 
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_142731723.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_142731723.jpg"
    alt="A rocky sub-summit with several people visible in the distance"
    caption="The first view of Little Haystack - surprisingly busy for a Monday morning"
    large=true
@@ -60,21 +60,21 @@ Having brought only 1.5L of water, I decided to take the detour to Liberty Sprin
 Although somewhat crowded, I enjoyed the beautiful views, clear weather, and rolling terrain of the ridge.
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_142949036.MP.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_142949036.MP.jpg"
    alt="A summit in the distance, with the ridgeline trail to it in the foreground"
    caption="Mt. Lincoln from just after Little Haystack"
    large=true
     %}
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_144321117.PANO.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_144321117.PANO.jpg"
    alt="A panoramic view of several summits"
    caption="A panoramic view from Mt. Lincoln. Lafayette in the center. Owl's Head on the right in the foreground. The background summit ridge on the right is Garfield, and then the second half of the loop (Twins, Bonds) continuing right from there"
    large=true
     %}
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_150105560.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_150105560.jpg"
    alt="Another summit view"
    caption="Looking at the second half of the loop from Mt. Lafayette"
    large=true
@@ -85,7 +85,7 @@ The coolest thing about the Pemi Loop in my opinion is that you can see the enti
 After descending from Lafayette however, the trail becomes a bit of a slog through the woods, with no further views until Garfield.I trudged onwards, downwards, forwards, upwards, and appeared out of the trees once more. A very kind couple at the top of Mt. Garfield offered me a bite of sourdough and some apple slices, both locally sourced, which more than made up for the previous drudgery
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_161549233.PANO.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_161549233.PANO.jpg"
    alt="Yet another summit panorama, with the remnants of a shelter on the summit"
    caption="The only picture I took on Garfield because I was too busy enjoying delicious snacks! On the right is the ridge over to Galehead and then the climb up to South Twin"
    large=true
@@ -94,7 +94,7 @@ After descending from Lafayette however, the trail becomes a bit of a slog throu
 As I decended off Garfield I saw two other runners on their way up, both of whom were doing the loop counterclockwise. I soon arrived at the second water source of the day, and filtered uphill of the sign as instructed - which made sense since the stream and the trail became one and the same soon after.
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_163613797.MP.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_163613797.MP.jpg"
    alt="A sign on a tree that says 'Water' with an arrow pointing left"
    caption="Spoiler alert: There is water on the right as well"
    large=true
@@ -103,7 +103,7 @@ As I decended off Garfield I saw two other runners on their way up, both of whom
 From there it was another slog through the woods, a brief stop at Galehead hut, and then a steep climb up to South Twin. 
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_172706086.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_172706086.jpg"
    alt="A rocky path in the woods"
    caption="A fairly accurate stand-in for probably about 30% of the whole loop. Imagine it slightly wider and flatter and you have another 20%."
     %}
@@ -112,28 +112,28 @@ Back out of the trees I enjoyed the second alpine segment of the day, happy to b
 
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_180324062.MP.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_180324062.MP.jpg"
    alt="A rocky summit with alpine brush"
    caption="Back above treeline on South Twin"
    large=true
     %}
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_180442525.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_180442525.jpg"
    alt="A summit selfie with a ridgeline in the background"
    caption="Back out in the sun - to the right behind me is Lafayette ridge from earlier in the day"
    large=true
     %}
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_190501769.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_190501769.jpg"
    alt="Another summit photo, with an exposed ridge in the middle distance below"
    caption="Looking at the upcoming Bondcliff ridgeline from Mt. Bond"
    large=true
     %}
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_193045321.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_193045321.jpg"
    alt="A flatter, more open summit, with a lumpy mountain and then a ridgeline behind it"
    caption="The last summit of the day, looking back across Owl's Head at Lafayette"
    large=true
@@ -142,7 +142,7 @@ Back out of the trees I enjoyed the second alpine segment of the day, happy to b
 After that it was all downhill. I put on my headphones and started cruising, enjoying the faster pace of the descent. I hit a larger stream which I crossed several more times, filtering the cold water and throwing some in my face as the fatigue started to set in. My legs started to get sore, but I was almost done! Or so I thought...
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_205505886.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_205505886.jpg"
    alt="A wide, flat, wooded trail with old railroad ties embededded in it"
    caption="Back on flat ground, but not out of the woods"
    large=true
@@ -153,7 +153,7 @@ I hit the rail trail excited to be on my way out - and then checked my watch and
 I pulled out some ten-minute miles, motivated by another runner in the distance, and managed to catch up to him - it was one of the two I had crossed with while descending Garfield. I saw the footbridge, made some hopefully polite noises at the folks in my way as I crossed it, and was back at the car! After a collapsing onto the nearest bench for a few minutes I chatted with the other runner - another Connecticut native who said he tried to run the loop every year. Given that expertise I quickly joined him on his suggestion to go soak in the river for a while. A lovely ice bath for my sore legs, and a great view to finish off the day.
 
 {% include photo.html
-   src="/assets/images/20205-10-06-pemi-loop/PXL_20251006_214337552.MP.jpg"
+   src="/assets/images/2025-10-06-pemi-loop/PXL_20251006_214337552.MP.jpg"
    alt="My feet in a clear river, with a concrete bridge in the distance and the setting sun behind it"
    large=true
     %}
